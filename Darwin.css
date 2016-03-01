@@ -1,0 +1,46 @@
+body{
+    background-color: #c5c4c1;
+    font-family: Slabo, san-serif;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    color: #858585;
+    text-align: center;
+    margin: -7px;
+    padding-bottom: 20px;
+}
+
+.desc {
+    margin-top: 10px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 18px;
+    padding: 10px;
+}
+.dec {
+    font-weight: bold;
+    color: #bab9b6;
+    font-size: 12px;
+}
+.dec2 {
+    font-size: 16px;
+    color: #b80700;
+    margin-top: 12em;
+}
+.dec3 {
+    font-weight: bold;
+    font-size: 16px;
+}
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+.likebtn-wrapper {
+    float: right;
+}
+.jumbotron {
+    background-color: #ededed;
+    display: block;
+}
