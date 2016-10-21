@@ -46,4 +46,10 @@ figcaption {
 .likebtn-wrapper {
     float: right;
 }
+@media (max-width: 770px) {
+    .Darwin {
+        width: 350px;
+    }
+
+}
 
